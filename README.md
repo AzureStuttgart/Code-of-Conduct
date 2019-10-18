@@ -47,4 +47,4 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
 ## License and attribution
-Berlin Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. It is based on the [Berlin Code of conduct)(https://berlincodeofconduct.org/).
+Berlin Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. It is based on the [Berlin Code of conduct](https://berlincodeofconduct.org/).
